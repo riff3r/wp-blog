@@ -1,0 +1,22 @@
+{
+  "name": "ruposhitips",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riff3r/wp-blog.git"
+  },
+  "author": "Ruhul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riff3r/wp-blog/issues"
+  },
+  "homepage": "https://github.com/riff3r/wp-blog#readme",
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
